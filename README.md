@@ -3,6 +3,7 @@
 Projeto frontend Alura Plus
 
 >📄 Código reescrito do curso: https://cursos.alura.com.br/course/html-css-praticando-html-css
+>📄 Deploy no git pages: https://felipefariasfcf.github.io/alura-plus-frontend/
 
 > Ferramentas utilizadas:
 <br>HTML5
